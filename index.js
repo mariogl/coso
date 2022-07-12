@@ -9,3 +9,5 @@ let x = 10;
 function cosa(a) {
   console.log(a);
 }
+
+casa(5);
