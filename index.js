@@ -1,3 +1,11 @@
 const a = 3;
 
-console.log(a);
+cotns b = 4;
+
+let a = 5;
+
+let x = 10;
+
+function cosa(a) {
+  console.log(a);
+}
